@@ -18,8 +18,8 @@ favicon: /assets/img/favicon.ico
 user:
   name: Ronald Gutierrez
   pic: /assets/img/cat.jpg
-  picAlt: "Ronald Gutiérrez"
-  job: blog personal 
+  picAlt: "Ronald Joseph Gutiérrez Suárez 1-15"
+  job: proyecto de blog personal 
   #aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
