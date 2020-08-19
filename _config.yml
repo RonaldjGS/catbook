@@ -20,7 +20,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "Ronald Gutiérrez"
   job: blog personal 
-  aboutme: true # comment this out if you don't need the 'about' page.
+  #aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
